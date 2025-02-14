@@ -1,6 +1,6 @@
 # VICrevive :heart:
 
-__## :information_source: Informations  :__
+## :information_source: Informations  :
 
 • plugin permettant lorsque le joueur est inconscient et qu’il n’y a pas de médecins/staff en ville de faire la commande /revive pour revivre !
 
@@ -8,10 +8,16 @@ __## :information_source: Informations  :__
 
 •  Interdiction de vendre mon plugin ou de le décompiler ou le leak bref juste utiliser le dans votre serveur !
  
-**• Le plugin nécessite aucune dépendance !**
+***• Le plugin nécessite aucune dépendance !***
 
-__## :hammer: Utilisation :__
+## :hammer: Utilisation :
 Pour utiliser ce plugin il faudra :
 Mettre le plugin dans votre serveur
 Le lancer ou le relancer
-Configurer le .json et c bon !
+Configurer le .json et c'est bon !
+
+## :ledger: READ ME :
+Voici le [READ ME](https://github.com/victorr2603/VICrevive/tree/main)
+
+## :low_battery::battery: Téléchargement :
+Voici le [Github](https://github.com/victorr2603/VICrevive/releases/tag/Plugins) pour le télécharger !
