@@ -8,7 +8,8 @@
 
 •  Interdiction de vendre mon plugin ou de le décompiler ou le leak bref juste utiliser le dans votre serveur !
  
-***• Le plugin nécessite aucune dépendance !***
+## :books:  Dépendances :
+**• Le plugin nécessite aucune dépendance !**
 
 ## :hammer: Utilisation :
 Pour utiliser ce plugin il faudra :
